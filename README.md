@@ -4,9 +4,9 @@ Información del Proyecto
 Implementación de un Árbol AVL con interfaz de línea de comandos que permite operaciones CRUD y visualización mediante Graphviz.
 
 Integrantes
-| Nombre         | Carnet           | Participación |
-| Nelson Ramirez |   9490-23-12237     | 100% |
-| Moises Galicia |   9490-23-8112      | 100% |
+
+Nelson Ramirez 9490-23-12237 100%
+Moises Galicia 9490-23-8112  100%
 
 - Inserción con balanceo automático
 - Búsqueda eficiente O(log n)
