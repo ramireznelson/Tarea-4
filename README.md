@@ -15,11 +15,6 @@ Integrantes
 - Visualización gráfica con Graphviz
 - Interfaz CLI interactiva
 
-Requisitos
-- Python 3.6+
-- Graphviz instalado en el sistema
-- Paquete `graphviz` de Python
-
 Características Principales
 
 Operaciones Implementadas
